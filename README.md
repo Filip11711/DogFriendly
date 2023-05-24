@@ -1,3 +1,3 @@
 # DogFriendly
 
-Projektni zadatka iz predmeta Programsko inženjerstvo na Fakultetu elektrotehnike i računarstva.
+Projektni zadatak iz predmeta Programsko inženjerstvo na Fakultetu elektrotehnike i računarstva.
